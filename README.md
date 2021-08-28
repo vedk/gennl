@@ -31,3 +31,6 @@ How to use:
 4. **Do people really ask the above questions?**
 
    Read the heading again. The first exclamation mark stands for `not` operator.
+
+## Credits
+Template has been adapted from https://github.com/designmodo/html-email-templates
